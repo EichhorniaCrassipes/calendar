@@ -1,2 +1,2 @@
 # calendar
-Simple calendar for android
+(almost) Simple calendar for android
