@@ -7,3 +7,11 @@ A modern mobile calendar application designed for Android devices. This project 
 * **Build Tool:** [Vite](https://vitejs.dev/)
 * **Mobile Engine:** [Capacitor](https://capacitorjs.com/)
 * **Platform:** Android
+## 📱 Features
+- [x] Full month/week calendar view
+- [x] Optimized layout for Tablet and Mobile devices
+- [ ] AI features
+- [ ] Event reminders, vidgets and notifications
+- [ ] Cloud synchronization
+---
+Developed with ❤️ by [EichhorniaCrassipes](https://github.com/EichhorniaCrassipes)
